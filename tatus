@@ -1,0 +1,11 @@
+[33mcommit 8c81d60ab5e288f5c5a38285a0f83f3e0987fc3a[m
+Author: Andrei Crudu <bogdancrudu@yahoo.com>
+Date:   Wed Jun 29 10:54:54 2016 +0300
+
+    Add Item Model/Controller, simple_form and bootstrap-sass gem
+
+[33mcommit e1cffaff493a6ff2f6fd31b911d828a640cce74b[m
+Author: Andrei Crudu <bogdancrudu@yahoo.com>
+Date:   Wed Jun 29 10:37:51 2016 +0300
+
+    first commit
